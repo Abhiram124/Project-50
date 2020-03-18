@@ -1,0 +1,21 @@
+.header{  
+    display: flex;
+background-color: cadetblue;
+  text-align: center;
+}
+
+.info{
+    display:flex
+    
+}
+
+
+
+.Quote{
+    display:flex;
+ background-color: grey;
+ 
+}
+
+   
+
